@@ -202,5 +202,15 @@ padding: 10px 0;
     .header__nav__h1{
         font-size: 4vw;
     }
-    
+    .footer__ul{
+        flex-direction: column;
+        text-align: center;
+    }
+    .footer__ul__li{
+        padding-top: 10px;
+    }
+    .main__info__img{
+        height: 40vw;
+        align-self: center;
+    }
 }
